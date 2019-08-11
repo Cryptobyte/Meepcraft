@@ -1,7 +1,6 @@
 {
   "name": "meepcraft",
   "version": "0.0.1",
-  "private": true,
   "description": "Meepcraft API Library",
   "main": "index.js",
   "scripts": {
